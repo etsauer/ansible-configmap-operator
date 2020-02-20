@@ -1,0 +1,6 @@
+---
+- version: v1
+  group:
+  kind: ConfigMap
+  role: /opt/ansible/roles/configmap
+  manageStatus: false
